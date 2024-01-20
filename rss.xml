@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<title>Web dizajn</title>
+			<description>Izrada web sajtova.</description>
+			<link>index.html</link>
+		</item>	
+		<item>
+			<title>Registracija</title>
+			<description>Od sada se možete registrovati</description>
+			<link>registracija.html</link>
+		</item>
+		<item>
+			<title>Logovanje</title>
+			<description>Od sada se možete ulogovati ako ste se registrovali</description>
+			<link>login.html</link>
+		</item>
+	</channel>
+</rss>
